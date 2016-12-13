@@ -1,0 +1,2 @@
+V	261210144419Z		01	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/OU=MyOrganizationalUnit/CN=delta/name=deltaVPN/emailAddress=me@myhost.mydomain
+V	261210144857Z		02	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/OU=MyOrganizationalUnit/CN=laptop/name=EasyRSA/emailAddress=me@myhost.mydomain

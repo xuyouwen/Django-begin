@@ -2,11 +2,9 @@
 
 sudo apt-get update
 
-sudo apt-get -y install openvpn easy-rsa dnsmasq
+sudo apt-get -y install openvpn easy-rsa dnsmasq unzip
 
-sudo sh -c 'echo "net.ipv4.ipforward=1" >>/etc/sysctl.conf'
-
-sudo sysctl -p
+sudo sysctl -w net.ipv4.ip_forward=1
 
 cd /etc
 

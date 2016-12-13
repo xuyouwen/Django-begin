@@ -1,0 +1,3 @@
+ËµÃ÷:
+/etc/dnsmasq.conf
+/etc/openvpn Ìæ»»µô
